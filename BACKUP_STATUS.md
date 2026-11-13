@@ -1,5 +1,2 @@
-# 백업 수집 진행 중
-
-2026-11-13 성공한 현재 실행 구성의 소스 백업을 수집 중입니다.
-후발 파일 준비 완료, 선두 실제 파일 수집은 대기 중입니다.
-완전한 양쪽 백업으로 간주하지 마세요. 실행 안내와 MANIFEST가 후속 커밋에 추가됩니다.
+Source snapshot prepared; actual leader collection: True
+Runtime not modified or launched. Verify MANIFEST.json before restoring.
